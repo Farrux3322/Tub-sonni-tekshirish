@@ -16,3 +16,7 @@ if isPrime(son):
     print("Tub son")
 else:
     print("Tub son emas")
+    
+    
+    
+print("Farrux")
