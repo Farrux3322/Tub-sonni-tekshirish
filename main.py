@@ -26,3 +26,6 @@ print("Farrux")
 
 print("aka")
 print("aka")
+print("aka")
+print("aka")
+print("aka")
